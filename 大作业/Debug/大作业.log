@@ -1,0 +1,6 @@
+﻿  refer.cpp
+  源.cpp
+C:\Users\27405\Desktop\我的编程\大作业\大作业\源.cpp(4,1): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\27405\Desktop\我的编程\大作业\大作业\源.cpp(4,26): warning C4101: “g4”: 未引用的局部变量
+  正在生成代码...
+  大作业.vcxproj -> C:\Users\27405\Desktop\我的编程\大作业\大作业\Debug\大作业.exe
